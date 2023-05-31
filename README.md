@@ -9,3 +9,4 @@ This repository contains articles about .NET code.
 ## Topics for new articles
  - How to run Azure DevOps agent locally
  - Why should we return IActionResult
+ - IOptions - Be aware of types used for options class
